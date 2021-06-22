@@ -1,1 +1,1 @@
-# covid-case-staistics
+# covid-case-statistics
