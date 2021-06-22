@@ -1,1 +1,1 @@
-# covid-cases-app
+# covid-case-staistics
